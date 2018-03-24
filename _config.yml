@@ -1,10 +1,11 @@
-title: Streamdata Gallery Timezone
-url: timezone.streamdata.gallery
-tag: Timezone
+title: Streamdata API Gallery - Timezones
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: timezones.streamdata.gallery
+tag: Timezones
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: timezone
+github_repo: timezones
 github_branch: master
 collections:
   listings:
